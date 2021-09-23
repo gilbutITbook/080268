@@ -1,4 +1,4 @@
-# <렛츠기릿(Let's Get IT) SQL 프로그래밍
+# <Let's Get IT(렛츠기릿) SQL 프로그래밍
 
 [렛츠기릿(Let's Get IT) SQL 프로그래밍]의 스크립트 파일이 담긴 저장소입니다.</br></br>
 ① 화면 오른쪽에 보이는 [Code] 버튼을 클릭합니다.</br>
